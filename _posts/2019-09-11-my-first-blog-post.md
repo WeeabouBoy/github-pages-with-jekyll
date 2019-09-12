@@ -1,4 +1,7 @@
-title: Welcome My Children
+---
+title: "Welcome My Children"
+date: 2019-09-12
+
 author: Ya boi
 email: genjomain@gmail.com
 description: Welcome fellow japondas. Now you all know the discrimination we have faced over the past few years.
@@ -11,3 +14,4 @@ Kabam_username: Lunala62
 github_username: WeeabouBoy
 PSN_username: The45thSaber
 Blizzard_username: The45thSaber,GenjoDeity and Jesus69
+---
